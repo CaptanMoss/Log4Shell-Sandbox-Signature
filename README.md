@@ -19,6 +19,3 @@ Regex : https://github.com/back2root/log4shell-rex
    <img src="cuckoo.png" title="Cuckoo Sandbox Signature"/>
 </p>
 
-<p align="center">
-   <img src="cuckoo_traffic_LI (3).jpg" title="Traffic"/>
-</p>
